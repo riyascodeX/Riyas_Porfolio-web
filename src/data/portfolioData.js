@@ -197,7 +197,7 @@ export const projects = [
     id: "foodmesh",
     number: "01",
     badge: "🚀 Flagship Project",
-    title: "RetailFlow.",
+    title: "Sales Data Warehouse & ETL Pipeline ",
     description:
       "An end-to-end data platform that takes raw ERP and CRM sales data and turns it into a decision-ready business intelligence solution. Built a data warehouse using Medallion Architecture (Bronze → Silver → Gold) on PostgreSQL ingesting raw CSV data, applying cleansing and standardization rules, and modeling it into a star schema with fact and dimension tables. On top of that warehouse, ran SQL-driven exploratory analysis covering sales trends, cumulative performance, and customer/product segmentation. Currently extending the project with a Power BI dashboard to surface these insights visually for business stakeholders.",
     techTags: [
@@ -223,7 +223,7 @@ export const projects = [
     isFlagship: false,
   },
   {
-    id: "sentiment-analysis",
+    id: "Real-Time Weather Streaming Analytics ",
     number: "03",
     badge: "🚀 Flagship Project",
     title: "SkyFlow (Real-Time Weather Analytics & Alerting System)",
