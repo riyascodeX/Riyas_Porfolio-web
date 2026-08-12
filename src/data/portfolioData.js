@@ -223,10 +223,10 @@ export const projects = [
     isFlagship: false,
   },
   {
-    id: "Real-Time Weather Streaming Analytics ",
+    id: "sentiment-analysis",
     number: "03",
     badge: "🚀 Flagship Project",
-    title: "SkyFlow (Real-Time Weather Analytics & Alerting System)",
+    title: "Real-Time Weather Streaming Analytics",
     description:
       "An end-to-end real-time data pipeline that ingests live weather data from a public API (WeatherAPI.com)and turns it into instant dashboards and automated alerts. Azure Functions and Azure Databricks pull and process the live weather feed, streaming it through Azure Event Hub into Microsoft Fabric's Real Time Intelligence stack where Eventstream and an Eventhouse (KQL database) handle continuous ingestion and querying. The processed data powers a live Power BI dashboard for monitoring, while Data Activator triggers automated real-time alerts sent directly to Outlook when defined weather conditions are met.",
     techTags: ["Azure Databricks", "Azure Functions", "Event Hub", "Microsoft Fabric", "Real-Time Intelligence Eventhouse (KQL DB)", "Power BI", "Data Activator"],
