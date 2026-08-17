@@ -222,8 +222,8 @@ const Hero = () => {
 
             {/* Download My Resume */}
             <a
-              href="/Riyas_Resume.pdf"
-              download="Riyas_Resume.pdf"
+              href="/Riyas_Resume_2026.pdf"
+              download="Riyas_Resume_2026.pdf"
               className="px-4 py-2 md:px-6 md:py-2 text-xs md:text-base rounded-full bg-white text-black font-semibold hover:bg-gray-200 transition-all duration-300 transform hover:scale-105 shadow-md flex items-center gap-2"
             >
               <svg
